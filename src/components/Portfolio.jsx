@@ -291,8 +291,8 @@ export default function Portfolio() {
                   "Built a SPA e-commerce frontend with dynamic product listing, category filters, and search. Managed global cart state using Redux Toolkit and persisted data in LocalStorage.",
                 technologies: ["React.js", "Redux Toolkit", "Tailwind CSS"],
                 features: ["Add to Cart", "Remove from Cart", "Real-time calculations"],
-                liveLink: "https://your-ecommerce-demo.vercel.app",
-                githubLink: "https://github.com/vimalbhoutekar/react-ecommerce-store",
+                liveLink: "https://react-ecommerce-three-mu.vercel.app/",
+                githubLink: "https://github.com/vimalbhoutekar/react-ecommerce",
               },
               {
                 title: "Personal Portfolio Website",
@@ -300,7 +300,7 @@ export default function Portfolio() {
                   "Developed a multi-page React portfolio with React Router and responsive Tailwind CSS layouts. Added smooth animations and dark/light theme toggle.",
                 technologies: ["React.js", "React Router DOM", "Tailwind CSS"],
                 features: ["Responsive Design", "Framer Motion", "Theme Toggle"],
-                liveLink: "https://your-portfolio-demo.vercel.app",
+                liveLink: "#",
                 githubLink: "https://github.com/vimalbhoutekar/portfolio-website",
               },
               {
